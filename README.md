@@ -1,2 +1,3 @@
-# Project_euler
-Solutions to the first 100 problems of Project Euler
+# Project Euler Solutions
+
+Contains my solutions to the first 100 problems of Project Euler.
